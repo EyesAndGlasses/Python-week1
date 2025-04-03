@@ -17,5 +17,5 @@ def search(number: int, sorted_list: List[int]) -> bool:
 
 
 sorted_numbers = [1, 2, 3, 45, 356, 569, 600, 705, 923]
-print(search(45, sorted_numbers))  
-print(search(500, sorted_numbers)) 
+print(search(45, sorted_numbers))
+print(search(500, sorted_numbers))
